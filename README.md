@@ -1,4 +1,4 @@
-## Oii eu sou Gabriel Queiroz - Desenvolvendo soluções desde 2020 😉
+## Gabriel Queiroz - Developer 😉
 
 <div align="center">
   <a href="https://github.com/gabrieloqueiroz">
@@ -31,6 +31,6 @@
  
 <div> 
  
-  ![Snake animation](https://github.com/gabrieloqueiroz/gabrieloqueiroz/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/gabrieloqueiroz/gabrieloqueiroz/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
